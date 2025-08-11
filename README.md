@@ -6,7 +6,7 @@
 # SSV Node
 
 [![API Reference](https://img.shields.io/badge/API%20Reference-blue)](https://pkg.go.dev/github.com/ssvlabs/ssv)
-![Github Actions](https://github.com/ssvlabs/ssv/actions/workflows/unit-test.yml/badge.svg?branch=main)
+![Github Actions](https://github.com/ssvlabs/ssv/actions/workflows/unit-test.yml/badge.svg?bnranch=main)
 ![Github Actions](https://github.com/ssvlabs/ssv/actions/workflows/lint.yml/badge.svg?branch=main)
 ![Test Coverage](./docs/resources/cov-badge.svg)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/ssvnetworkofficial)
